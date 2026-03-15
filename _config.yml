@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "arthur.png"
   name             : "Arthur Powanwe"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Applied Mathematics, Computational neuroscience and Machine Learning"
