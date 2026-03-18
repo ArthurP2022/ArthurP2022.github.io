@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Stochastic dynamics, University of Ottawa, Canada, 2015-2021
+* M.S. in Mathematics, African Institute for Mathematical Sciences (AIMS),Cameroon, 2013-2014
+* M.S. in Physics, University of Yaounde I, Cameroon, 2010-2012
+* B.S. in Physics, University of Yaounde I, Cameroon,2007-2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Associate 
+  * Dept of Mathematics, Western University and Fields Institute, 2023-current.
+  * Supervisor: Lyle Mulller
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher
+  * University of Ottawa
+  * Supervisor:  Jeremie Lefebvre and Andre Longtin
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Researcher
+  * University of Ottawa
+  * Supervisor: Andre Longtin and Adam Sachs
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Matlab, Fortran, R, Julia
+* Libraries/Framework:
+  * Pytorch, tensorflow
+  * Jax, Keras, scikit-learn
+* Scientific tools: Latex
 
 Publications
 ======
