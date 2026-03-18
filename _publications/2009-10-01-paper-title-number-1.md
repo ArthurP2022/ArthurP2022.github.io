@@ -2,6 +2,7 @@
 title: "Determinants of brain rhythm burst statistics"
 collection: publications
 category: manuscripts
+output: true
 permalink: /publication/2026-03-06-determinant-brain-rhythm
 excerpt: 'This study identifies the key factors that determine the statistical properties of burst activity in neural oscillations.'
 date: 2026-03-06
