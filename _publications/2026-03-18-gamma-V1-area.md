@@ -1,5 +1,5 @@
 ---
-title: "Combinatorial Encoding of Visual Contrast into Gamma Rhythm Featires"
+title: "Combinatorial Encoding of Visual Contrast into Gamma Rhythm Features"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-18-gamma-V1-area
